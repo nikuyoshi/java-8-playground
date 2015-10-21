@@ -6,5 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>multi-thread-sample</module>
+	<module>threadpool-sample</module>
+	<module>propery-descriptor</module>
   </modules>
 </project>
